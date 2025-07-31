@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Yug 👋
+**Tech Enthusiast | Frontend Developer | Machine Learning Learner**
+
+🚀 Currently working on: Building a Python-based casino app  
+🎯 2025 Goal: Get an internship, bulk up, and build a killer GitHub!
+
 
 <!--
 **yugmalviya1/yugmalviya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
