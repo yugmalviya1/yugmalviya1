@@ -6,4 +6,4 @@
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,mongodb,vscode,replit,html,css,js,postgres,git,github,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,mongodb,vscode,replit,html,css,js,postgres,git,github,pycharm,gcp)](https://skillicons.dev)
