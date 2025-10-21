@@ -6,14 +6,10 @@
 - Lifelong learner, constantly exploring new technologies
 - Always open to collaborations & challenges  
 
-### 📈 GitHub Stats
-![Yug's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/yug-malviya-2b762)  
-- [Twitter](https://twitter.com/your-twitter/)  
+- [LinkedIn](https://www.linkedin.com/yug-malviya-2b762)    
 - [Email](mailto:yugmalviya1@gmail.com)
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,mongodb,vscode,replit,html,css,js,react,postgres,git,github,heroku,pycharm,gcp,docker,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,mongodb,vscode,replit,html,css,js,react,postgres,git,github,heroku,pycharm,django,fastapi,flask,gcp,docker,nodejs,npm,opencv,pytorch)](https://skillicons.dev)
