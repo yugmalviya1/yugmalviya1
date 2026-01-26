@@ -12,4 +12,4 @@
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,mongodb,vscode,replit,html,css,js,ts,react,postgres,git,github,heroku,pycharm,django,fastapi,flask,gcp,docker,nodejs,npm,opencv,pytorch,blender,ae,,figma,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,mongodb,vscode,replit,html,css,js,ts,react,postgres,git,github,heroku,pycharm,django,fastapi,flask,gcp,docker,nodejs,npm,opencv,pytorch,blender,ae,figma,kali)](https://skillicons.dev)
