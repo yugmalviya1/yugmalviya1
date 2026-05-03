@@ -20,7 +20,7 @@
 
 ### 🗄️ Databases and cloud hosting
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb.vercel,heroku,koyeb,render,railway,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,vercel,heroku,postgresql)](https://skillicons.dev)
 
 ### 💻 Software and tools
 
