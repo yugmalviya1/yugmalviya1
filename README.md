@@ -17,4 +17,4 @@
 
 ### 🧰 Frameworks and libraries
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap)](https://skillicons.dev)
