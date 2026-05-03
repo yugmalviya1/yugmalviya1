@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Programming and markup languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts,bash)](https://skillicons.dev)
 
 
 ## 🧰 Frameworks and libraries
