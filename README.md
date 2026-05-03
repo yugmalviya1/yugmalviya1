@@ -24,4 +24,4 @@
 
 ### 💻 Software and tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,antigravity,linux,kalilinux)](https://skillicons.dev)
