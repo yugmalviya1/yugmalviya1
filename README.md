@@ -18,3 +18,8 @@
 ### 🧰 Frameworks and libraries
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap)](https://skillicons.dev)
+
+### 🗄️ Databases and cloud hosting
+
+
+### 
