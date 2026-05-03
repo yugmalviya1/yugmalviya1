@@ -11,9 +11,7 @@
 - [Email](mailto:yugmalviya1@gmail.com)
 
 ### 👨‍💻 Programming and markup languages
-####
-
-
+[![My Skills](https://skillicons.dev/icons?i=c,python,cpp,html,css,js,ts,nodejs)](https://skillicons.dev)
 ### 🧰 Frameworks and libraries
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap,threejs,nextjs)](https://skillicons.dev)
