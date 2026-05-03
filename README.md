@@ -14,12 +14,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts,bash)](https://skillicons.dev)
 
-
 ### 🧰 Frameworks and libraries
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap,framer,threejs,nextjs)](https://skillicons.dev)
 
 ### 🗄️ Databases and cloud hosting
 
+[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts,bash)](https://skillicons.dev)
 
 ### 💻 Software and tools
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts,bash)](https://skillicons.dev)
