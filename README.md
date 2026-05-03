@@ -10,11 +10,11 @@
 - [LinkedIn](https://www.linkedin.com/yug-malviya-2b762)    
 - [Email](mailto:yugmalviya1@gmail.com)
 
-## 👨‍💻 Programming and markup languages
+### 👨‍💻 Programming and markup languages
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts,bash)](https://skillicons.dev)
 
 
-## 🧰 Frameworks and libraries
+### 🧰 Frameworks and libraries
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap,scss)](https://skillicons.dev)
