@@ -12,4 +12,8 @@
 
 ## 👨‍💻 Programming and markup languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,mongodb,vscode,replit,html,css,js,ts,react,postgres,git,github,heroku,pycharm,django,fastapi,flask,gcp,docker,nodejs,npm,opencv,pytorch,blender,ae,figma,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,cpp,html,css,js,ts](https://skillicons.dev)
+
+## 🧰 Frameworks and libraries
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react](https://skillicons.dev)
