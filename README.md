@@ -12,6 +12,8 @@ Currently focused on:
 - Performance Optimization
 - Building real-world SaaS & client projects
 
+![](https://komarev.com/ghpvc/?username=yugmalviya1&color=blue)
+
 ### 👨‍💻 Programming and markup languages
 [![My Skills](https://skillicons.dev/icons?i=c,python,cpp,html,css,js,ts,nodejs)](https://skillicons.dev)
 ### 🧰 Frameworks and libraries
