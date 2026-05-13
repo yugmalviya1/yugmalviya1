@@ -1,14 +1,16 @@
 # Hi there 👋, I'm Yug Malviya
 
-### 🚀 About Me
-- Passionate Software Developer | Python, JavaScript & AI enthusiast
-- Building projects that solve real-world problems
-- Lifelong learner, constantly exploring new technologies
-- Always open to collaborations & challenges  
+## 🚀 Software Developer | Full Stack Developer | AI Enthusiast
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/yug-malviya-2b762)    
-- [Email](mailto:yugmalviya1@gmail.com)
+Passionate about building modern digital experiences, scalable applications, and high-performance applications.  
+I love turning ideas into real-world products using modern technologies and continuously pushing myself to grow as a developer.
+
+Currently focused on:
+- Full Stack Development
+- Backend & Databases
+- AI / Agentic AI / RAG Systems
+- Performance Optimization
+- Building real-world SaaS & client projects
 
 ### 👨‍💻 Programming and markup languages
 [![My Skills](https://skillicons.dev/icons?i=c,python,cpp,html,css,js,ts,nodejs)](https://skillicons.dev)
