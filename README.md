@@ -26,4 +26,4 @@ Currently focused on:
 
 ### 💻 Software and tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,antigravity,linux,kalilinux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,kali)](https://skillicons.dev)
