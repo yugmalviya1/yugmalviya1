@@ -8,7 +8,7 @@ I love turning ideas into real-world products using modern technologies and cont
 Currently focused on:
 - Full Stack Development
 - Backend & Databases
-- AI / Agentic AI / RAG Systems
+- AI / Agentic AI / RAG Systems / ML
 - Performance Optimization
 - Building real-world SaaS & client projects
 
