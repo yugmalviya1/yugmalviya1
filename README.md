@@ -26,4 +26,4 @@ Currently focused on:
 
 ### 💻 Software and tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,kali,pycharm,idea,cursor,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,linux,kali,pycharm,idea,postman)](https://skillicons.dev)
