@@ -18,7 +18,7 @@ Currently focused on:
 [![My Skills](https://skillicons.dev/icons?i=c,python,cpp,html,css,js,ts,nodejs)](https://skillicons.dev)
 ### 🧰 Frameworks and libraries
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap,threejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,bootstrap,threejs,nextjs,numpy)](https://skillicons.dev)
 
 ### 🗄️ Databases and cloud hosting
 
