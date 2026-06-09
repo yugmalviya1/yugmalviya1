@@ -27,3 +27,6 @@ Currently focused on:
 ### 💻 Software and tools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,linux,kali,pycharm,idea,postman)](https://skillicons.dev)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugmalviya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
