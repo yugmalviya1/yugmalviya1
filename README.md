@@ -45,7 +45,6 @@ Currently focused on:
 
 ### 🗄️ Databases and cloud hosting
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,vercel,heroku,postgresql)](https://skillicons.dev)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
