@@ -58,7 +58,6 @@ Currently focused on:
 
 ### 💻 Software and tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,linux,kali,pycharm,idea,postman)](https://skillicons.dev)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
