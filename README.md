@@ -14,7 +14,7 @@ Currently focused on:
 
 ![](https://komarev.com/ghpvc/?username=yugmalviya1&color=blue)
 
-### 👨‍💻 Programming and Markup languages
+## 👨‍💻 Programming and Markup languages
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -43,7 +43,7 @@ Currently focused on:
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=fff)](#)
 [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)
 
-### 🗄️ Databases and cloud hosting
+## 🗄️ Databases and cloud hosting
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
@@ -56,7 +56,7 @@ Currently focused on:
 [![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)](#)
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#)
 
-### 💻 Software and tools
+## 💻 Software and tools
 
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
@@ -71,4 +71,6 @@ Currently focused on:
 
 
 
+
+##
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yugmalviya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
